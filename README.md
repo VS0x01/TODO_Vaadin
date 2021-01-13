@@ -1,8 +1,8 @@
-# Project Base for Vaadin and Spring Boot
-
-This is an example project that can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
-
+# TODO_Vaadin
+  
+  Write TODO app with Vaadin and Spring frameworks
+  
+  ![TODO](./todo.png)
 
 ## Running the Application
 There are two ways to run the application :  using `mvn spring-boot:run` or by running the `Application` class directly from your IDE.
